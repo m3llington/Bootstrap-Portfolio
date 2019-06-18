@@ -1,0 +1,31 @@
+
+.tophead{
+    border-bottom-color: black;
+    border-bottom: 1px solid;
+    padding-bottom: 8px;
+    
+}
+#name{
+    float: left;
+    background-color: darkcyan;
+    color:white;
+}
+#about{
+    border-bottom-color: black;
+    border-bottom: 1px solid;
+    padding-bottom: 8px;
+}
+
+
+.container{
+    clear: both;
+    padding-top: 25px;
+}
+
+footer{
+   text-align: center;
+}
+
+.red{
+    background: red;
+}
