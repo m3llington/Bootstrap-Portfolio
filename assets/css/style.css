@@ -30,3 +30,9 @@ footer{
     height:150px;
     width: 150px;
 }
+
+@media screen and (max-width: 980px){
+    .Orlando{
+        width: 50%;
+        height: auto; }
+    }
