@@ -1,21 +1,28 @@
+header {
+  border-bottom-color: black;
+  border-bottom: 1px solid;
+}
+
+
 .tophead {
   border-bottom-color: black;
   border-bottom: 1px solid;
   padding-bottom: 8px;
 }
+
 #name {
-  float: left;
-  background-color: rgb(66, 137, 219);
-  color: white;
+
+  color: dodgerblue;
 }
+
 #about {
   border-bottom-color: black;
   border-bottom: 1px solid;
   padding-bottom: 8px;
 }
 
-.container {
-  clear: both;
+.maincontainer {
+
   padding-top: 25px;
 }
 
