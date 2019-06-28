@@ -35,9 +35,26 @@ footer {
   width: 150px;
 }
 
-@media screen and (max-width: 980px) {
-  .Orlando {
-    width: 50%;
-    height: auto;
-  }
+
+
+@media screen and (max-width: 425px) {
+.Orlando{
+  margin: 0 auto;
+    align-content: center;
 }
+
+  .col-md-4 {
+    align-content: center;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .col-md-8{
+    align-content: center;
+    margin: 0 auto;
+    width: 100%;
+    float: left;
+  }
+
+}
+
