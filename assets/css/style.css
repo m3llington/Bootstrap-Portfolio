@@ -35,6 +35,15 @@ footer {
   width: 150px;
 }
 
+.card-body {
+  background-color: rgb(255, 253, 253);
+}
+
+.card-img-top{
+  height: 215px;
+  width: 285px;
+}
+
 
 
 @media screen and (max-width: 425px) {
