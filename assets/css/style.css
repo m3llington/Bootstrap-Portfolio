@@ -21,16 +21,16 @@ header {
   padding-bottom: 8px;
 }
 
-.maincontainer {
+/* .maincontainer {
 
   padding-top: 25px;
-}
+} */
 
 footer {
   text-align: center;
 }
 
-.Orlando {
+.profile {
   height: 150px;
   width: 150px;
 }
