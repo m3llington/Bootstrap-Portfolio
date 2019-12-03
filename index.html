@@ -5,7 +5,7 @@
    <meta charset="UTF-8" />
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-   <title>Bootstrap Portfolio</title>
+   <title>Portfolio</title>
    <!-- Bootstrap link -->
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
@@ -29,10 +29,13 @@
                <a class="nav-link active" href="#about">About</a>
              </li>
              <li class="nav-item">
+                <a class="nav-link" href="#skills">Skills</a>
+              </li>
+             <li class="nav-item">
                <a class="nav-link" href="portfolio.html">Projects</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="contact.html">Contact</a>
+               <a class="nav-link" href="#contact">Contact</a>
              </li>
 
            </ul>
@@ -46,7 +49,7 @@
    <!-- Main Container -->
    <div class="maincontainer">
 
-
+    <!-- Intro Section -->
      <div class="jumbotron jumbotron-fluid">
        <div class="text-center" style="margin: 20px">
 
@@ -60,6 +63,7 @@
        </div>
 
      </div>
+     <!-- End Intro Section -->
 
 <!-- About Section -->
      <div id="about">
@@ -83,8 +87,35 @@
             </div>
         </div>
     </div>
+    <!-- End About section -->
 
+    <!-- Skills section -->
+    <div id="skills">
+        <h2 class="heading">Skills</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>Node.js</li>
+            <li>AngularJs</li>
+            <li>React</li>
+            <li>C#</li>
+        </ul>
+    </div>
+    <!-- End skills section -->
 
+    
+    <div id="contact">
+        <h2>Contact</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/email@email.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
 
    </div>
    <!-- End Main Container -->

@@ -21,6 +21,11 @@ header {
   padding-bottom: 8px;
 }
 
+#skills {
+  border-bottom-color: black;
+  border-bottom: 1px solid;
+  padding-bottom: 8px;
+}
 /* .maincontainer {
 
   padding-top: 25px;
