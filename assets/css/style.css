@@ -26,6 +26,12 @@ header {
   border-bottom: 1px solid;
   padding-bottom: 8px;
 }
+
+#projects {
+  border-bottom-color: black;
+  border-bottom: 1px solid;
+  padding-bottom: 8px;
+}
 /* .maincontainer {
 
   padding-top: 25px;
