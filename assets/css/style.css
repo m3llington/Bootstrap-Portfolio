@@ -10,26 +10,39 @@ header {
   padding-bottom: 8px;
 }
 
-#name {
+.jumbotron {
+  border-bottom: 1px solid lightgray;
+}
+
+#navbar {
 
   color: dodgerblue;
 }
 
 #about {
-  border-bottom-color: black;
-  border-bottom: 1px solid;
+  border-bottom-color: gray;
+  border-bottom: 1px solid lightgray;
   padding-bottom: 8px;
 }
 
 #skills {
-  border-bottom-color: black;
-  border-bottom: 1px solid;
+  border-bottom-color: gray;
+  border-bottom: 1px solid lightgray;
+  background-color: #e9ecef;
   padding-bottom: 8px;
 }
 
 #projects {
-  border-bottom-color: black;
+  border-bottom-color: gray;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 8px;
+}
+
+#contact {
+  
+  border-bottom-color: gray;
   border-bottom: 1px solid;
+  background-color: #e9ecef;
   padding-bottom: 8px;
 }
 /* .maincontainer {
@@ -39,6 +52,8 @@ header {
 
 footer {
   text-align: center;
+
+  color: dodgerblue;
 }
 
 .profile {
