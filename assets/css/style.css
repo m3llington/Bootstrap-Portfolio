@@ -78,26 +78,17 @@ footer {
   height: 215px;
   width: 285px;
 }
-/* 
+
+#note{
+  text-align: center;
+}
+
 .fa {
-  padding: 20px;
-  width: 50px;
+  padding: 10px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
-} */
-
-/* .fa-github, .fa-dribbble, .fa-linkedin {
-  color: #000;
 }
-
-a.fa.fa-github, a.fa.fa-dribbble, a.fa.fa-linkedin {
-  text-decoration: none;
-}
-
-a.fa.fa-github:hover, a.fa.fa-dribbble:hover, a.fa.fa-linkedin:hover {
-  color: #5CAE9D;
-} */
-
 
 /* 
 Attempt of mobile responsiveness unfinished */
