@@ -208,22 +208,22 @@ ul.navbar-nav li:hover {
 }
 
 .p1 {
-  background: #FFF url('...')  center no-repeat;
+  background: #FFF url('images/Crystal-Collector.png')  center no-repeat;
   background-size: cover;
 }
 
 .p2 {
-  background: #FFF url('...')  center no-repeat;
+  background: #FFF url('images/surplus-finance.png')  center no-repeat;
   background-size: cover;
 }
 
 .p3 {
-  background: #FFF url('...')  center no-repeat;
+  background: #FFF url('images/burger.png')  center no-repeat;
   background-size: cover;
 }
 
 .p4 {
-  background: #FFF url('...') center no-repeat;
+  background: #FFF url('images/clicky-game.png') center no-repeat;
   background-size: cover;
 }
 
