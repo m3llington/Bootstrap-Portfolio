@@ -103,16 +103,16 @@ ul.navbar-nav li:hover {
 }
 
 /************************************
-          SECTION: Social
+          SECTION: Contact
 ************************************/
 .social-icon {
   width: 100px;
   transition: all 0.5s linear;
 }
 
-.social-icon:hover {
+/* .social-icon:hover {
   transform: rotate(45deg);
-}
+} */
 
 #contact-container h2 {
   font-family: 'Permanent Marker', cursive;
