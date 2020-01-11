@@ -110,9 +110,9 @@ ul.navbar-nav li:hover {
   transition: all 0.5s linear;
 }
 
-/* .social-icon:hover {
-  transform: rotate(45deg);
-} */
+.social-icon:hover {
+  transform: scaleY(1.25);
+}
 
 #contact-container h2 {
   font-family: 'Permanent Marker', cursive;
