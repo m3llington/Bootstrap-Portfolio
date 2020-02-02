@@ -1,9 +1,9 @@
 body {
   font-family: sans-serif;
   color:#444;
-  /* background: #FFF url('images/background.png')  center no-repeat;
-  background-size: cover; */
-  background:lightblue;
+  background: #FFF url('images/background.png');
+  background-size: 100%;
+  
 }
 
 h1, h2, h3, h4 {
