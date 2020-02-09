@@ -1,6 +1,8 @@
 # Main-Portfolio
 
-This is the most current version of my professional portfolio page. Demo https://m3llington.github.io/Main-Portfolio/
+Up to date portfolio page. Technologies, and languages used explained in the "Built With" section. 
+
+Demo version availible here: https://m3llington.github.io/Main-Portfolio/
 
 ## Built With
 
