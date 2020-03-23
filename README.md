@@ -9,3 +9,6 @@ Demo version availible here: https://m3llington.github.io/Main-Portfolio/
 * [HTML]
 * [CSS] - uses Bootstrap as the CSS library
 * [Javascript]
+
+
+Link to all forms of contact in footer
