@@ -11,4 +11,4 @@ Demo version availible here: https://m3llington.github.io/Main-Portfolio/
 * [Javascript]
 
 
-Link to all forms of contact in footer
+Link to all forms of contact in footer. Example projects are availible on click.
