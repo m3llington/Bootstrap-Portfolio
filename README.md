@@ -12,3 +12,8 @@ Demo version availible here: https://m3llington.github.io/Main-Portfolio/
 
 
 Link to all forms of contact in footer. Example projects are availible on click.
+
+
+To do:
+
+Mobile responsivness
