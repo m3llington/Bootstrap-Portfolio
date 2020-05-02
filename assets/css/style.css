@@ -11,9 +11,18 @@ h1, h2, h3, h4 {
   font-family: 'Permanent Marker', cursive;
 }
 
+/* Resolves mobile responsive issue with name in navbar */
+@media only screen and (max-width: 500px) {
+  #name {
+    font-size: 50%;
+  }
+}
+
 /************************************
           HEADER
 ************************************/
+
+
 nav {
   background-color: #444;
   padding: 1em;
@@ -69,6 +78,8 @@ ul.navbar-nav li:hover {
   margin-top: 5em;
   
 }
+
+
 
 .mastercontainer {
   text-align: center;
